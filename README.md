@@ -7,7 +7,7 @@ Hello ! My name's Alexandre (_18yo_) and I'm currently working for the EPFL as a
 
 **🐱 My Github Data** 
 
-> 🏆 522 Contributions in the Year 2020
+> 🏆 521 Contributions in the Year 2020
  > 
 > 📦 5.3 kB Used in Github's Storage 
  > 
