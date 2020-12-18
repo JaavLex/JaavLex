@@ -9,7 +9,7 @@ Hello ! My name's Alexandre (_18yo_) and I'm currently working for the EPFL as a
 
 > 🏆 550 Contributions in the Year 2020
  > 
-> 📦 6.0 kB Used in Github's Storage 
+> 📦 6.1 kB Used in Github's Storage 
  > 
 > 🚫 Not Opted to Hire
  > 
