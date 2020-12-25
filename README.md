@@ -3,7 +3,7 @@
 Hello ! My name's Alexandre (_18yo_) and I'm currently working for the EPFL as an apprentice in application developpement. I mostly like javascript developpement but I like to learn new languages and technologies.
 
 <!--START_SECTION:waka-->
-![Profile Views](http://img.shields.io/badge/Profile%20Views-75-blue)
+![Profile Views](http://img.shields.io/badge/Profile%20Views-24-blue)
 
 **🐱 My Github Data** 
 
