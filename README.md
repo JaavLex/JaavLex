@@ -46,16 +46,17 @@ Sunday       1 commits      ░░░░░░░░░░░░░░░░░�
 ⌚︎ Time Zone: Europe/Zurich
 
 💬 Programming Languages: 
-No Activity Tracked This Week
+JavaScript               22 mins             ████████████████████████░   96.21% 
+JSON                     0 secs              █░░░░░░░░░░░░░░░░░░░░░░░░   3.79%
 
 🔥 Editors: 
-No Activity Tracked This Week
+VS Code                  23 mins             █████████████████████████   100.0%
 
 🐱‍💻 Projects: 
-No Activity Tracked This Week
+parrot-bot               23 mins             █████████████████████████   100.0%
 
 💻 Operating System: 
-No Activity Tracked This Week
+Linux                    23 mins             █████████████████████████   100.0%
 
 ```
 
