@@ -1,6 +1,10 @@
 ### Presentation
 
-Hello ! My name's Alexandre (_18yo_) and I'm currently working for the EPFL as an apprentice in application developpement. I mostly like javascript developpement but I like to learn new languages and technologies.
+
+
+Hello ! My name's Alexandre (_18yo_) and I'm currently working for the EPFL as an apprentice in application developpement. I mostly like javascript developpement but I like to learn new languages and technologies. Currently working on a small project for our Apprenticeship School : Gartic Phone Copy with battle royale rules added to it (**Using:** React, .NET C#, Mysql, Docker)
+
+I have some hobbies : Sports shooting, Movies, Climbing and Gaming.
 
 <!--START_SECTION:waka-->
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue)
