@@ -9,9 +9,11 @@ I have some hobbies : Sports shooting, Movies, Climbing and Gaming.
 <!--START_SECTION:waka-->
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue)
 
+![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-105274%20lines%20of%20code-blue)
+
 **🐱 My Github Data** 
 
-> 🏆 61 Contributions in the Year 2021
+> 🏆 66 Contributions in the Year 2021
  > 
 > 📦 8.1 kB Used in Github's Storage 
  > 
@@ -80,10 +82,6 @@ Python                   2 repos             ██░░░░░░░░░�
 
 ```
 
-
-**Timeline**
-
-![Chart not found](https://raw.githubusercontent.com/TacticsCH/TacticsCH/main/charts/bar_graph.png) 
 
 
 <!--END_SECTION:waka-->
