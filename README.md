@@ -13,13 +13,13 @@ I have some hobbies : Sports shooting, Movies, Climbing and Gaming.
 
 **🐱 My Github Data** 
 
-> 🏆 67 Contributions in the Year 2021
+> 🏆 71 Contributions in the Year 2021
  > 
 > 📦 8.1 kB Used in Github's Storage 
  > 
 > 🚫 Not Opted to Hire
  > 
-> 📜 31 Public Repositories 
+> 📜 32 Public Repositories 
  > 
 > 🔑 3 Private Repositories  
  > 
