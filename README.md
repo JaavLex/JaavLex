@@ -13,9 +13,9 @@ I have some hobbies : Sports shooting, Movies, Climbing and Gaming.
 
 **🐱 My Github Data** 
 
-> 🏆 71 Contributions in the Year 2021
+> 🏆 74 Contributions in the Year 2021
  > 
-> 📦 8.1 kB Used in Github's Storage 
+> 📦 8.2 kB Used in Github's Storage 
  > 
 > 🚫 Not Opted to Hire
  > 
