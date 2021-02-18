@@ -9,13 +9,13 @@ I have some hobbies : Sports shooting, Movies, Climbing and Gaming.
 <!--START_SECTION:waka-->
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-59-blue)
 
-![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-109196%20lines%20of%20code-blue)
+![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-109108%20lines%20of%20code-blue)
 
 **🐱 My Github Data** 
 
-> 🏆 79 Contributions in the Year 2021
+> 🏆 84 Contributions in the Year 2021
  > 
-> 📦 8.1 kB Used in Github's Storage 
+> 📦 8.2 kB Used in Github's Storage 
  > 
 > 🚫 Not Opted to Hire
  > 
@@ -26,8 +26,8 @@ I have some hobbies : Sports shooting, Movies, Climbing and Gaming.
 **I'm an Early 🐤** 
 
 ```text
-🌞 Morning    149 commits    ████████░░░░░░░░░░░░░░░░░   34.41% 
-🌆 Daytime    263 commits    ███████████████░░░░░░░░░░   60.74% 
+🌞 Morning    153 commits    ████████░░░░░░░░░░░░░░░░░   35.33% 
+🌆 Daytime    259 commits    ███████████████░░░░░░░░░░   59.82% 
 🌃 Evening    20 commits     █░░░░░░░░░░░░░░░░░░░░░░░░   4.62% 
 🌙 Night      1 commits      ░░░░░░░░░░░░░░░░░░░░░░░░░   0.23%
 
@@ -37,8 +37,8 @@ I have some hobbies : Sports shooting, Movies, Climbing and Gaming.
 ```text
 Monday       78 commits     ████░░░░░░░░░░░░░░░░░░░░░   18.01% 
 Tuesday      93 commits     █████░░░░░░░░░░░░░░░░░░░░   21.48% 
-Wednesday    76 commits     ████░░░░░░░░░░░░░░░░░░░░░   17.55% 
-Thursday     104 commits    ██████░░░░░░░░░░░░░░░░░░░   24.02% 
+Wednesday    86 commits     █████░░░░░░░░░░░░░░░░░░░░   19.86% 
+Thursday     94 commits     █████░░░░░░░░░░░░░░░░░░░░   21.71% 
 Friday       77 commits     ████░░░░░░░░░░░░░░░░░░░░░   17.78% 
 Saturday     3 commits      ░░░░░░░░░░░░░░░░░░░░░░░░░   0.69% 
 Sunday       2 commits      ░░░░░░░░░░░░░░░░░░░░░░░░░   0.46%
