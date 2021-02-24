@@ -6,6 +6,8 @@ Hello ! My name's Alexandre (_18yo_) and I'm currently working for the EPFL as a
 
 I have some hobbies : Sports shooting, Movies, Climbing and Gaming.
 
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=tacticsch&theme=react&show_icons=true&count_private=true&include_all_commits=true)](https://github.com/anuraghazra/github-readme-stats)
+
 <!--START_SECTION:waka-->
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-59-blue)
 
@@ -86,5 +88,3 @@ Python                   2 repos             ██░░░░░░░░░�
 
 
 <!--END_SECTION:waka-->
-
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=tacticsch&theme=react&show_icons=true&count_private=true&include_all_commits=true)](https://github.com/anuraghazra/github-readme-stats)
