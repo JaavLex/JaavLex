@@ -6,9 +6,9 @@ Hello ! My name's Alexandre (_19yo_) and I'm currently working at EPFL as an app
 
 I have some hobbies : Sports shooting, Movies, Climbing and Gaming.
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=tacticsch&layout=compact&langs_count=8&theme=react)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jaavlex&layout=compact&langs_count=8&theme=react)](https://github.com/anuraghazra/github-readme-stats)
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=tacticsch&theme=react&show_icons=true&count_private=true)](https://github.com/anuraghazra/github-readme-stats)
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=jaavlex&theme=react&show_icons=true&count_private=true)](https://github.com/anuraghazra/github-readme-stats)
 
 <!--START_SECTION:waka-->
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-4-blue)
