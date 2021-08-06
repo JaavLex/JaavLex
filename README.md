@@ -11,13 +11,13 @@ I have some hobbies : Sports shooting, Movies, Climbing and Gaming.
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=jaavlex&theme=react&show_icons=true&count_private=true)](https://github.com/anuraghazra/github-readme-stats)
 
 <!--START_SECTION:waka-->
-![Profile Views](http://img.shields.io/badge/Profile%20Views-9-blue)
+![Profile Views](http://img.shields.io/badge/Profile%20Views-8-blue)
 
-![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-112387%20lines%20of%20code-blue)
+![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-112330%20lines%20of%20code-blue)
 
 **🐱 My Github Data** 
 
-> 🏆 601 Contributions in the Year 2021
+> 🏆 605 Contributions in the Year 2021
  > 
 > 📦 45.4 kB Used in Github's Storage 
  > 
@@ -30,22 +30,22 @@ I have some hobbies : Sports shooting, Movies, Climbing and Gaming.
 **I'm an Early 🐤** 
 
 ```text
-🌞 Morning    176 commits    ███████░░░░░░░░░░░░░░░░░░   30.56% 
-🌆 Daytime    314 commits    █████████████░░░░░░░░░░░░   54.51% 
-🌃 Evening    27 commits     █░░░░░░░░░░░░░░░░░░░░░░░░   4.69% 
-🌙 Night      59 commits     ██░░░░░░░░░░░░░░░░░░░░░░░   10.24%
+🌞 Morning    178 commits    ███████░░░░░░░░░░░░░░░░░░   30.69% 
+🌆 Daytime    314 commits    █████████████░░░░░░░░░░░░   54.14% 
+🌃 Evening    29 commits     █░░░░░░░░░░░░░░░░░░░░░░░░   5.0% 
+🌙 Night      59 commits     ██░░░░░░░░░░░░░░░░░░░░░░░   10.17%
 
 ```
 📅 **I'm Most Productive on Wednesday** 
 
 ```text
-Monday       129 commits    █████░░░░░░░░░░░░░░░░░░░░   22.4% 
-Tuesday      67 commits     ███░░░░░░░░░░░░░░░░░░░░░░   11.63% 
-Wednesday    131 commits    █████░░░░░░░░░░░░░░░░░░░░   22.74% 
-Thursday     119 commits    █████░░░░░░░░░░░░░░░░░░░░   20.66% 
-Friday       69 commits     ███░░░░░░░░░░░░░░░░░░░░░░   11.98% 
-Saturday     29 commits     █░░░░░░░░░░░░░░░░░░░░░░░░   5.03% 
-Sunday       32 commits     █░░░░░░░░░░░░░░░░░░░░░░░░   5.56%
+Monday       129 commits    █████░░░░░░░░░░░░░░░░░░░░   22.24% 
+Tuesday      67 commits     ███░░░░░░░░░░░░░░░░░░░░░░   11.55% 
+Wednesday    131 commits    █████░░░░░░░░░░░░░░░░░░░░   22.59% 
+Thursday     123 commits    █████░░░░░░░░░░░░░░░░░░░░   21.21% 
+Friday       69 commits     ███░░░░░░░░░░░░░░░░░░░░░░   11.9% 
+Saturday     29 commits     █░░░░░░░░░░░░░░░░░░░░░░░░   5.0% 
+Sunday       32 commits     █░░░░░░░░░░░░░░░░░░░░░░░░   5.52%
 
 ```
 
@@ -86,5 +86,5 @@ TSQL                     2 repos             ██░░░░░░░░░�
 
 
 
- Last Updated on 05/08/2021
+ Last Updated on 06/08/2021
 <!--END_SECTION:waka-->
