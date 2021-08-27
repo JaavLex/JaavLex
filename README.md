@@ -11,13 +11,13 @@ I have some hobbies : Sports shooting, Movies, Climbing and Gaming.
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=jaavlex&theme=react&show_icons=true&count_private=true)](https://github.com/anuraghazra/github-readme-stats)
 
 <!--START_SECTION:waka-->
-![Profile Views](http://img.shields.io/badge/Profile%20Views-3-blue)
+![Profile Views](http://img.shields.io/badge/Profile%20Views-2-blue)
 
-![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-112892%20lines%20of%20code-blue)
+![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-112954%20lines%20of%20code-blue)
 
 **🐱 My Github Data** 
 
-> 🏆 794 Contributions in the Year 2021
+> 🏆 801 Contributions in the Year 2021
  > 
 > 📦 45.3 kB Used in Github's Storage 
  > 
@@ -30,19 +30,19 @@ I have some hobbies : Sports shooting, Movies, Climbing and Gaming.
 **I'm an Early 🐤** 
 
 ```text
-🌞 Morning    171 commits    ███████░░░░░░░░░░░░░░░░░░   27.9% 
-🌆 Daytime    337 commits    █████████████░░░░░░░░░░░░   54.98% 
+🌞 Morning    173 commits    ███████░░░░░░░░░░░░░░░░░░   28.22% 
+🌆 Daytime    335 commits    █████████████░░░░░░░░░░░░   54.65% 
 🌃 Evening    40 commits     █░░░░░░░░░░░░░░░░░░░░░░░░   6.53% 
 🌙 Night      65 commits     ██░░░░░░░░░░░░░░░░░░░░░░░   10.6%
 
 ```
-📅 **I'm Most Productive on Monday** 
+📅 **I'm Most Productive on Thursday** 
 
 ```text
 Monday       138 commits    █████░░░░░░░░░░░░░░░░░░░░   22.51% 
 Tuesday      65 commits     ██░░░░░░░░░░░░░░░░░░░░░░░   10.6% 
-Wednesday    130 commits    █████░░░░░░░░░░░░░░░░░░░░   21.21% 
-Thursday     138 commits    █████░░░░░░░░░░░░░░░░░░░░   22.51% 
+Wednesday    123 commits    █████░░░░░░░░░░░░░░░░░░░░   20.07% 
+Thursday     145 commits    ██████░░░░░░░░░░░░░░░░░░░   23.65% 
 Friday       74 commits     ███░░░░░░░░░░░░░░░░░░░░░░   12.07% 
 Saturday     33 commits     █░░░░░░░░░░░░░░░░░░░░░░░░   5.38% 
 Sunday       35 commits     █░░░░░░░░░░░░░░░░░░░░░░░░   5.71%
@@ -82,5 +82,5 @@ TSQL                     2 repos             ██░░░░░░░░░�
 
 
 
- Last Updated on 26/08/2021
+ Last Updated on 27/08/2021
 <!--END_SECTION:waka-->
