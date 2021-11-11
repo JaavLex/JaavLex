@@ -9,7 +9,7 @@ I have some hobbies : Sports shooting, Movies, Climbing and Gaming.
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=jaavlex&theme=react&show_icons=true&count_private=true)](https://github.com/anuraghazra/github-readme-stats)
 
 <!--START_SECTION:waka-->
-![Profile Views](http://img.shields.io/badge/Profile%20Views-8-blue)
+![Profile Views](http://img.shields.io/badge/Profile%20Views-6-blue)
 
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-5.4%20million%20lines%20of%20code-blue)
 
@@ -54,19 +54,19 @@ Sunday       44 commits     ██░░░░░░░░░░░░░░░�
 ⌚︎ Time Zone: Europe/Zurich
 
 💬 Programming Languages: 
-JavaScript               1 hr 12 mins        ████████████████████████░   98.63% 
-JSON                     0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   1.22% 
-Git Config               0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   0.07% 
-YAML                     0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   0.07%
+JavaScript               2 hrs 11 mins       ████████████████████████░   99.31% 
+JSON                     0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   0.61% 
+Git Config               0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   0.04% 
+YAML                     0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   0.04%
 
 🔥 Editors: 
-VS Code                  1 hr 13 mins        █████████████████████████   100.0%
+VS Code                  2 hrs 12 mins       █████████████████████████   100.0%
 
 🐱‍💻 Projects: 
-lh3.frontend             1 hr 13 mins        █████████████████████████   100.0%
+lh3.frontend             2 hrs 12 mins       █████████████████████████   100.0%
 
 💻 Operating System: 
-Mac                      1 hr 13 mins        █████████████████████████   100.0%
+Mac                      2 hrs 12 mins       █████████████████████████   100.0%
 
 ```
 
@@ -83,5 +83,5 @@ Lua                      2 repos             █░░░░░░░░░░�
 
 
 
- Last Updated on 10/11/2021
+ Last Updated on 11/11/2021
 <!--END_SECTION:waka-->
