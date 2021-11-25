@@ -1,5 +1,7 @@
 ### Presentation
 
+K-POP 🥰
+
 Hello ! My name's Alexandre (_19yo_) and I'm currently working at EPFL as an apprentice in application developpement. I mostly like javascript developpement but I like to learn new languages and technologies. Currently working on a small project for our Apprenticeship School : Gartic Phone Copy with battle royale rules added to it (**Using:** React, .NET C#, Mysql, Docker)
 
 I have some hobbies : Sports shooting, Movies, Climbing and Gaming.
