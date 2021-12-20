@@ -17,7 +17,7 @@ I have some hobbies : Sports shooting, Movies, Climbing and Gaming.
 
 > 🏆 885 Contributions in the Year 2021
  > 
-> 📦 99.2 kB Used in GitHub's Storage 
+> 📦 99.3 kB Used in GitHub's Storage 
  > 
 > 🚫 Not Opted to Hire
  > 
@@ -88,5 +88,5 @@ Lua                      2 repos             █░░░░░░░░░░�
 
 
 
- Last Updated on 19/12/2021
+ Last Updated on 20/12/2021
 <!--END_SECTION:waka-->
