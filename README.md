@@ -9,13 +9,13 @@ I have some hobbies : Sports shooting, Movies, Climbing and Gaming.
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=jaavlex&theme=react&show_icons=true&count_private=true)](https://github.com/anuraghazra/github-readme-stats)
 
 <!--START_SECTION:waka-->
-![Profile Views](http://img.shields.io/badge/Profile%20Views-3-blue)
+![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue)
 
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-181%20Thousand%20lines%20of%20code-blue)
 
 **🐱 My GitHub Data** 
 
-> 🏆 889 Contributions in the Year 2021
+> 🏆 1 Contributions in the Year 2022
  > 
 > 📦 99.5 kB Used in GitHub's Storage 
  > 
@@ -29,20 +29,20 @@ I have some hobbies : Sports shooting, Movies, Climbing and Gaming.
 
 ```text
 🌞 Morning    138 commits    ███████░░░░░░░░░░░░░░░░░░   29.18% 
-🌆 Daytime    206 commits    ███████████░░░░░░░░░░░░░░   43.55% 
+🌆 Daytime    205 commits    ██████████░░░░░░░░░░░░░░░   43.34% 
 🌃 Evening    40 commits     ██░░░░░░░░░░░░░░░░░░░░░░░   8.46% 
-🌙 Night      89 commits     ████░░░░░░░░░░░░░░░░░░░░░   18.82%
+🌙 Night      90 commits     ████░░░░░░░░░░░░░░░░░░░░░   19.03%
 
 ```
 📅 **I'm Most Productive on Monday** 
 
 ```text
-Monday       113 commits    ██████░░░░░░░░░░░░░░░░░░░   23.89% 
+Monday       112 commits    ██████░░░░░░░░░░░░░░░░░░░   23.68% 
 Tuesday      43 commits     ██░░░░░░░░░░░░░░░░░░░░░░░   9.09% 
 Wednesday    76 commits     ████░░░░░░░░░░░░░░░░░░░░░   16.07% 
 Thursday     89 commits     ████░░░░░░░░░░░░░░░░░░░░░   18.82% 
 Friday       54 commits     ██░░░░░░░░░░░░░░░░░░░░░░░   11.42% 
-Saturday     49 commits     ██░░░░░░░░░░░░░░░░░░░░░░░   10.36% 
+Saturday     50 commits     ██░░░░░░░░░░░░░░░░░░░░░░░   10.57% 
 Sunday       49 commits     ██░░░░░░░░░░░░░░░░░░░░░░░   10.36%
 
 ```
@@ -54,19 +54,16 @@ Sunday       49 commits     ██░░░░░░░░░░░░░░░�
 ⌚︎ Time Zone: Europe/Zurich
 
 💬 Programming Languages: 
-YAML                     7 mins              ████████████████████░░░░░   80.46% 
-HTML                     1 min               ███░░░░░░░░░░░░░░░░░░░░░░   14.91% 
-C#                       0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   3.06% 
-TypeScript               0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   1.58%
+No Activity Tracked This Week
 
 🔥 Editors: 
-VS Code                  9 mins              █████████████████████████   100.0%
+No Activity Tracked This Week
 
 🐱‍💻 Projects: 
-shooting-session-app     9 mins              █████████████████████████   100.0%
+No Activity Tracked This Week
 
 💻 Operating System: 
-Mac                      9 mins              █████████████████████████   100.0%
+No Activity Tracked This Week
 
 ```
 
@@ -83,5 +80,5 @@ Lua                      2 repos             █░░░░░░░░░░�
 
 
 
- Last Updated on 31/12/2021
+ Last Updated on 01/01/2022
 <!--END_SECTION:waka-->
