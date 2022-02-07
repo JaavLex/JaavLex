@@ -1,7 +1,5 @@
 ### Presentation
 
-I love the kpop https://www.youtube.com/watch?v=_OR8SwJ8dnE
-
 Hello ! My name's Alexandre (_19yo_) and I'm currently working at EPFL as an apprentice in application developpement. I mostly like javascript developpement but I like to learn new languages and technologies. Currently working on an EPFL project on gitlab - hence the lack of activity on gitlab !
 
 I have some hobbies : Sports shooting, Movies, Climbing and Gaming.
