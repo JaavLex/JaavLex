@@ -9,13 +9,13 @@ I have some hobbies : Sports shooting, Movies, Climbing and Gaming.
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=jaavlex&theme=react&show_icons=true&count_private=true)](https://github.com/anuraghazra/github-readme-stats)
 
 <!--START_SECTION:waka-->
-![Profile Views](http://img.shields.io/badge/Profile%20Views-1-blue)
+![Profile Views](http://img.shields.io/badge/Profile%20Views-3-blue)
 
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-198%20Thousand%20lines%20of%20code-blue)
 
 **🐱 My GitHub Data** 
 
-> 🏆 61 Contributions in the Year 2022
+> 🏆 62 Contributions in the Year 2022
  > 
 > 📦 100.4 kB Used in GitHub's Storage 
  > 
@@ -80,5 +80,5 @@ Lua                      2 repos             █░░░░░░░░░░�
 
 
 
- Last Updated on 02/04/2022 00:39:35 UTC
+ Last Updated on 03/04/2022 00:39:22 UTC
 <!--END_SECTION:waka-->
