@@ -26,7 +26,7 @@
 
 ###
 
-<p align="left">I'm Alex from Switzerland 🇨🇭<br><br>- 🔭 I’m looking for a Fullstack Developper position !<br>- 📚 I'm currently expanding my knowledge in React ⚛︎ !<br>- ⚡ In my free time I run, shoot or edit videos !</p>
+<p align="left">I'm Alex from Switzerland 🇨🇭<br><br>- 🔭 I’m looking for a Fullstack Developper position !<br>- 📚 I'm currently expanding my knowledge in c++ w/ Raylib !<br>- ⚡ In my free time I run, shoot or edit videos !</p>
 
 ###
 
